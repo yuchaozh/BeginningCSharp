@@ -9,3 +9,14 @@
 /Users/yuchaozhou/Documents/C# Learning/ConsoleApplication1/ConsoleApplication1/obj/Debug/netcoreapp2.0/ConsoleApplication1.AssemblyInfo.cs
 /Users/yuchaozhou/Documents/C# Learning/ConsoleApplication1/ConsoleApplication1/obj/Debug/netcoreapp2.0/ConsoleApplication1.dll
 /Users/yuchaozhou/Documents/C# Learning/ConsoleApplication1/ConsoleApplication1/obj/Debug/netcoreapp2.0/ConsoleApplication1.pdb
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.0\ConsoleApplication1.deps.json
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.0\ConsoleApplication1.runtimeconfig.json
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.0\ConsoleApplication1.runtimeconfig.dev.json
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.0\ConsoleApplication1.dll
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.0\ConsoleApplication1.pdb
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.0\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.0\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.0\ConsoleApplication1.AssemblyInfoInputs.cache
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.0\ConsoleApplication1.AssemblyInfo.cs
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.0\ConsoleApplication1.dll
+D:\BeginningCSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.0\ConsoleApplication1.pdb
