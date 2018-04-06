@@ -1,0 +1,6 @@
+D:\BeginningCSharp\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.exe.config
+D:\BeginningCSharp\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.exe
+D:\BeginningCSharp\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.pdb
+D:\BeginningCSharp\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.exe
+D:\BeginningCSharp\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.pdb

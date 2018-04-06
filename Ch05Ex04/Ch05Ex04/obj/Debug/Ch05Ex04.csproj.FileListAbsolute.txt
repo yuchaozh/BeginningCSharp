@@ -1,0 +1,7 @@
+D:\BeginningCSharp\Ch05Ex04\Ch05Ex04\bin\Debug\Ch05Ex04.exe.config
+D:\BeginningCSharp\Ch05Ex04\Ch05Ex04\bin\Debug\Ch05Ex04.exe
+D:\BeginningCSharp\Ch05Ex04\Ch05Ex04\bin\Debug\Ch05Ex04.pdb
+D:\BeginningCSharp\Ch05Ex04\Ch05Ex04\obj\Debug\Ch05Ex04.csprojResolveAssemblyReference.cache
+D:\BeginningCSharp\Ch05Ex04\Ch05Ex04\obj\Debug\Ch05Ex04.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp\Ch05Ex04\Ch05Ex04\obj\Debug\Ch05Ex04.exe
+D:\BeginningCSharp\Ch05Ex04\Ch05Ex04\obj\Debug\Ch05Ex04.pdb
