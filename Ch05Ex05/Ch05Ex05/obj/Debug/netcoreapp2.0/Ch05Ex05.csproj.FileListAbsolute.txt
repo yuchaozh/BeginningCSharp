@@ -1,0 +1,11 @@
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/bin/Debug/netcoreapp2.0/Ch05Ex05.deps.json
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/bin/Debug/netcoreapp2.0/Ch05Ex05.runtimeconfig.json
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/bin/Debug/netcoreapp2.0/Ch05Ex05.runtimeconfig.dev.json
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/bin/Debug/netcoreapp2.0/Ch05Ex05.dll
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/bin/Debug/netcoreapp2.0/Ch05Ex05.pdb
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/obj/Debug/netcoreapp2.0/Ch05Ex05.csprojResolveAssemblyReference.cache
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/obj/Debug/netcoreapp2.0/Ch05Ex05.csproj.CoreCompileInputs.cache
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/obj/Debug/netcoreapp2.0/Ch05Ex05.AssemblyInfoInputs.cache
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/obj/Debug/netcoreapp2.0/Ch05Ex05.AssemblyInfo.cs
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/obj/Debug/netcoreapp2.0/Ch05Ex05.dll
+/Users/yuchaozhou/Documents/C# Learning/Ch05Ex05/Ch05Ex05/obj/Debug/netcoreapp2.0/Ch05Ex05.pdb

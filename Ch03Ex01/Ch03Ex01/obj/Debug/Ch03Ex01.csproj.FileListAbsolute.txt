@@ -1,7 +1,14 @@
-D:\BeginningCSharp\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.exe.config
-D:\BeginningCSharp\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.exe
-D:\BeginningCSharp\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.pdb
-D:\BeginningCSharp\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.csprojResolveAssemblyReference.cache
-D:\BeginningCSharp\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.csproj.CoreCompileInputs.cache
-D:\BeginningCSharp\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.exe
-D:\BeginningCSharp\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.pdb
+D:/BeginningCSharp/Ch03Ex01/Ch03Ex01/bin/Debug/Ch03Ex01.exe.config
+D:/BeginningCSharp/Ch03Ex01/Ch03Ex01/bin/Debug/Ch03Ex01.exe
+D:/BeginningCSharp/Ch03Ex01/Ch03Ex01/bin/Debug/Ch03Ex01.pdb
+D:/BeginningCSharp/Ch03Ex01/Ch03Ex01/obj/Debug/Ch03Ex01.csprojResolveAssemblyReference.cache
+D:/BeginningCSharp/Ch03Ex01/Ch03Ex01/obj/Debug/Ch03Ex01.csproj.CoreCompileInputs.cache
+D:/BeginningCSharp/Ch03Ex01/Ch03Ex01/obj/Debug/Ch03Ex01.exe
+D:/BeginningCSharp/Ch03Ex01/Ch03Ex01/obj/Debug/Ch03Ex01.pdb
+/Users/yuchaozhou/Documents/C# Learning/Ch03Ex01/Ch03Ex01/bin/Debug/Ch03Ex01.exe.config
+/Users/yuchaozhou/Documents/C# Learning/Ch03Ex01/Ch03Ex01/bin/Debug/Ch03Ex01.exe
+/Users/yuchaozhou/Documents/C# Learning/Ch03Ex01/Ch03Ex01/bin/Debug/Ch03Ex01.pdb
+/Users/yuchaozhou/Documents/C# Learning/Ch03Ex01/Ch03Ex01/obj/Debug/Ch03Ex01.csprojResolveAssemblyReference.cache
+/Users/yuchaozhou/Documents/C# Learning/Ch03Ex01/Ch03Ex01/obj/Debug/Ch03Ex01.csproj.CoreCompileInputs.cache
+/Users/yuchaozhou/Documents/C# Learning/Ch03Ex01/Ch03Ex01/obj/Debug/Ch03Ex01.exe
+/Users/yuchaozhou/Documents/C# Learning/Ch03Ex01/Ch03Ex01/obj/Debug/Ch03Ex01.pdb

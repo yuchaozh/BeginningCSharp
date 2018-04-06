@@ -1,0 +1,4 @@
+/Users/yuchaozhou/Documents/C# Learning/Ch06Ex02/Ch06Ex02/obj/Debug/netcoreapp2.0/Ch06Ex02.csprojResolveAssemblyReference.cache
+/Users/yuchaozhou/Documents/C# Learning/Ch06Ex02/Ch06Ex02/obj/Debug/netcoreapp2.0/Ch06Ex02.csproj.CoreCompileInputs.cache
+/Users/yuchaozhou/Documents/C# Learning/Ch06Ex02/Ch06Ex02/obj/Debug/netcoreapp2.0/Ch06Ex02.AssemblyInfoInputs.cache
+/Users/yuchaozhou/Documents/C# Learning/Ch06Ex02/Ch06Ex02/obj/Debug/netcoreapp2.0/Ch06Ex02.AssemblyInfo.cs

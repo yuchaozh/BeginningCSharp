@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yuchaozhou/Documents/C# Learning/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj",
-      "projectName": "ConsoleApplication1",
-      "projectPath": "/Users/yuchaozhou/Documents/C# Learning/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj",
+      "projectUniqueName": "/Users/yuchaozhou/Documents/C# Learning/Ch06Ex01/Ch06Ex01/Ch06Ex01.csproj",
+      "projectName": "Ch06Ex01",
+      "projectPath": "/Users/yuchaozhou/Documents/C# Learning/Ch06Ex01/Ch06Ex01/Ch06Ex01.csproj",
       "packagesPath": "/Users/yuchaozhou/.nuget/packages/",
-      "outputPath": "/Users/yuchaozhou/Documents/C# Learning/ConsoleApplication1/ConsoleApplication1/obj",
+      "outputPath": "/Users/yuchaozhou/Documents/C# Learning/Ch06Ex01/Ch06Ex01/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
